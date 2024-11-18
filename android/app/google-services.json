@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391139111749",
+    "project_id": "chatapp-d4e37",
+    "storage_bucket": "chatapp-d4e37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391139111749:android:1fe2dd3954493d5d7dc42c",
+        "android_client_info": {
+          "package_name": "com.omer.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZi6kRZCTxsgK_sV4Q8wDVGo-wYUBTdEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

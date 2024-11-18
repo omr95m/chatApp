@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "chat_applecation",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../chat_aplecation/assets"
+		}
+	],
+	"settings": {}
+}
